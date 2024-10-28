@@ -1,6 +1,10 @@
 # Beacon Scanner
 
-A Flutter application for scanning IoT beacons at [the Saint Martin's Institute of Higher Education](https://www.stmartins.edu/) in Hamrun, Malta.
+A mobile application for scanning IoT beacons.
+
+Created for [the Saint Martin's Institute of Higher Education](https://www.stmartins.edu/) in Hamrun, Malta.
+
+Powered by *Dart*, *Flutter*, and *Firebase*.
 
 | Login Page | Main Page |
 | -------- | ------- |
